@@ -4,3 +4,5 @@ python -m pip install "pymongo[srv]"
 
 #Rodar o app
 python agenda-python.py
+
+Rodrigo Teixeira, Lucas J Silva
